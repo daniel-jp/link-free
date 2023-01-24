@@ -1,0 +1,15 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/": "pages/index.js",
+  "/discover": "pages/discover.js",
+  "/api/discover/popular": "pages/api/discover/popular.js",
+  "/api/discover/random": "pages/api/discover/random.js",
+  "/api/discover/trending": "pages/api/discover/trending.js",
+  "/api/discover/tags": "pages/api/discover/tags.js",
+  "/api/users": "pages/api/users.js",
+  "/search": "pages/search.js",
+  "/api/statistics/totals": "pages/api/statistics/totals.js",
+  "/api/statistics/today": "pages/api/statistics/today.js"
+}
