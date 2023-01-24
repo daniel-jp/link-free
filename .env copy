@@ -1,0 +1,7 @@
+LINKFREE_MONGO_CONNECTION_STRING="mongodb+srv://daniel-jp:root@cluster0.k9gp69n.mongodb.net/?retryWrites=true&w=majority"
+C_GA_MEASUREMENT_ID=""
+NEXT_PUBLIC_BASE_URL="http://localhost:3000"
+NODE_ENV="development"
+SHADOWBAN="" 
+
+#mongodb://localhost:27017/linkfree
